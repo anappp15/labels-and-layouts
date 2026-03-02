@@ -1,0 +1,1 @@
+# This file contains images that are used as inputs on the labelling and collages notebook
